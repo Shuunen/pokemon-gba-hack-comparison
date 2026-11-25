@@ -18,6 +18,19 @@ body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 system-ui,-ap
 main{max-width:2400px;margin:0 auto;padding:20px 28px 60px}
 h1{font-size:1.6rem;margin:0 0 4px}
 .sub{color:var(--mut);margin:0 0 18px}
+.head{display:flex;justify-content:space-between;align-items:flex-start;gap:16px}
+.aboutbtn{font:inherit;font-size:.9rem;padding:7px 14px;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:999px;cursor:pointer;white-space:nowrap}
+.aboutbtn:hover,.aboutbtn:focus-visible{border-color:var(--acc);color:var(--acc);outline:none}
+dialog.about{width:min(640px,calc(100vw - 32px));max-height:calc(100vh - 48px);padding:0;border:1px solid var(--line);border-radius:14px;background:var(--card);color:var(--ink);box-shadow:0 24px 70px rgba(0,0,0,.35)}
+dialog.about::backdrop{background:rgba(0,0,0,.5)}
+.about-in{padding:22px 26px 20px;overflow:auto;max-height:inherit}
+.about-in h2{font-size:1.35rem;margin:0 0 10px}
+.about-in h3{font-size:.8rem;text-transform:uppercase;letter-spacing:.06em;color:var(--mut);margin:18px 0 6px}
+.about-in p{margin:6px 0}
+.about-in a{color:var(--acc)}
+.about-in .mark{color:var(--mut);font:.8rem ui-monospace,SFMono-Regular,Menlo,monospace;margin-top:18px;padding-top:12px;border-top:1px solid var(--line)}
+.about-in .aclose{font:inherit;padding:7px 18px;border:1px solid var(--line);background:transparent;color:var(--ink);border-radius:8px;cursor:pointer;float:right;margin-top:14px}
+.about-in .aclose:hover,.about-in .aclose:focus-visible{border-color:var(--acc);outline:none}
 .panel{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin-bottom:16px}
 .panel summary{cursor:pointer;font-weight:600}
 .sliders{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:10px 18px;margin-top:12px}
@@ -147,8 +160,11 @@ h1{font-size:1.6rem;margin:0 0 4px}
 </head>
 <body>
 <main>
-<h1 id="title">Comparatif des hacks Pokémon GBA</h1>
-<p class="sub" id="sub"></p>
+<header class="head">
+  <div><h1 id="title">Comparatif des hacks Pokémon GBA</h1>
+  <p class="sub" id="sub"></p></div>
+  <button id="aboutbtn" class="aboutbtn" type="button" aria-haspopup="dialog">À propos</button>
+</header>
 
 <details class="panel" id="rangepanel">
   <summary>Filtres<span id="fbadge"></span></summary>
@@ -177,6 +193,21 @@ h1{font-size:1.6rem;margin:0 0 4px}
   <p><b>Mentions.</b> Projet de fans, sans lien avec Nintendo, Game Freak, The Pokémon Company ni les créateurs des hacks. Pokémon est une marque de ses propriétaires. Ce site n'héberge aucune ROM ni aucun patch : les liens mènent aux pages de leurs auteurs ou de sites tiers, et les patchs s'appliquent à une ROM que tu possèdes légalement. Une erreur ou une demande de retrait ? Signale-la sur le dépôt du projet.</p>
 </footer>
 </main>
+<dialog class="about" id="about" aria-labelledby="abouttitle">
+  <div class="about-in">
+    <h2 id="abouttitle">À propos</h2>
+    <p>Comparatif de plus de <b id="aboutn">100</b> hacks Pokémon jouables sur GBA, pour choisir le prochain à lancer : recommandations des classements en ligne, difficulté, grind, confort, visuel, stabilité, appréciation des joueurs, popularité sur Hackdex et monde ouvert.</p>
+    <h3>Comment ça marche</h3>
+    <p>Chaque critère est noté de 0 à 10. Le score est la moyenne pondérée de ces notes, ramenée sur 100, avec des poids que tu règles toi-même. Les plages de la boîte « Filtres » ne gardent que les hacks dont chaque note est dans l'intervalle choisi.</p>
+    <p>Tes poids, filtres, exclusions et notes de visuel restent dans ton navigateur : il n'y a ni compte ni serveur.</p>
+    <h3>Créé par</h3>
+    <p><a href="https://github.com/Shuunen" target="_blank" rel="noopener noreferrer">Shuunen</a>, avec l'aide de Claude Code. Projet open source sous licence MIT : <a href="https://github.com/Shuunen/pokemon-gba-hack-comparison" target="_blank" rel="noopener noreferrer">code, données et contributions sur GitHub</a>. Une erreur, une idée ou une demande de retrait ? <a href="https://github.com/Shuunen/pokemon-gba-hack-comparison/issues" target="_blank" rel="noopener noreferrer">Ouvre une issue</a>.</p>
+    <h3>Mentions</h3>
+    <p>Projet de fans, sans lien avec Nintendo, Game Freak, The Pokémon Company ni les créateurs des hacks. Aucune ROM n'est hébergée. Les sources et crédits sont en bas de page.</p>
+    <p class="mark" id="buildmark"></p>
+    <button class="aclose" id="aboutclose" type="button">Fermer</button>
+  </div>
+</dialog>
 <script>
 const D = /*DATA*/null;
 const LABELS = {sources:"Recommandations",grind:"Sans grind",difficulty:"Facilité",comfort:"Confort",visual:"Visuel",maturity:"Maturité",stability:"Stabilité",appreciation:"Appréciation",hackdex:"Popularité Hackdex",openworld:"Monde ouvert"};
@@ -362,6 +393,13 @@ function saveWeights(){LS.set('weights10',JSON.stringify(W));setSaved('Réglages
 
 buildSliders(); buildRanges(); render();
 try{const w=JSON.parse(LS.get('weights10')||'null');if(w){Object.keys(W0).forEach(k=>{if(typeof w[k]==='number'&&w[k]>=0&&w[k]<=10)W[k]=w[k]});buildSliders();render()}}catch(e){}
+
+// fenêtre « À propos »
+(()=>{const dlg=$("#about");$("#aboutn").textContent=D.hacks.length;
+  const b=D.build||{};$("#buildmark").textContent=`Build : ${b.commit||'dev'} - ${b.date||'date inconnue'}`;
+  $("#aboutbtn").onclick=()=>dlg.showModal();$("#aboutclose").onclick=()=>dlg.close();
+  dlg.addEventListener('click',e=>{if(e.target===dlg)dlg.close()});   // clic sur le fond: ferme
+})();
 </script>
 </body>
 </html>

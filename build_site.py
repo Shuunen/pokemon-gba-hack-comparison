@@ -4,11 +4,23 @@ la même formule est reproduite en Python (score_py) pour vérification en ligne
 import json
 import math
 import os
+import subprocess
 import sqlite3
-from datetime import date
+from datetime import date, datetime, timezone
 
 DB = "data/hacks.db"
 TODAY = date.today()
+
+
+def build_info():
+    """Commit court (variable COMMIT_REF de Netlify, sinon git) et date du build en UTC, pour la fenêtre « À propos »."""
+    commit = os.environ.get("COMMIT_REF") or ""
+    if not commit:
+        try:
+            commit = subprocess.run(["git", "rev-parse", "HEAD"], capture_output=True, text=True, check=True).stdout.strip()
+        except Exception:
+            commit = ""
+    return {"commit": commit[:7] or "dev", "date": datetime.now(timezone.utc).strftime("%d/%m/%Y %H:%M:%S UTC")}
 
 
 def load():
@@ -105,7 +117,8 @@ def main():
             "stats": {"sources": len(srcs), "articles": sum(1 for s in srcs.values() if s["kind"] == "article"),
                       "videos": sum(1 for s in srcs.values() if s["kind"] == "video"),
                       "total_hacks": c.execute("select count(*) from hacks").fetchone()[0],
-                      "fiched": len(hacks)}}
+                      "fiched": len(hacks)},
+            "build": build_info()}
     os.makedirs("dist", exist_ok=True)
     html = open("site_template.html", encoding="utf-8").read().replace("/*DATA*/null", json.dumps(data, ensure_ascii=False))
     open("dist/index.html", "w", encoding="utf-8").write(html)

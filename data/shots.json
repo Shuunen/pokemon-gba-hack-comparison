@@ -1,0 +1,601 @@
+{
+ "Unbound": {
+  "world": [
+   "https://images.hackdex.app/pokemon-unbound/1766754012284-3.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/04/pokemon-unbound-1.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/04/pokemon-unbound-3.png"
+  ],
+  "battle": "https://images.hackdex.app/pokemon-unbound/1766754017337-5.gif"
+ },
+ "Dreamstone Mysteries": {
+  "world": [
+   "https://s3.retroachievements.org/game/screenshots/736/736062158/8014ad19cb648ddf4173e47f142eaba90bb7ccbf/8014ad19cb648ddf4173e47f142eaba90bb7ccbf-thumbnail.png",
+   "https://i.imgur.com/9CxgE4y.png",
+   "https://i.imgur.com/pT1O3Fx.png"
+  ],
+  "battle": "https://i.imgur.com/M7cXERO.png"
+ },
+ "Odyssey": {
+  "world": [
+   "https://s3.retroachievements.org/game/screenshots/689/689924814/1dbfc0c241c2db3947163d14a3a6c061380ab710/backfill-52ls9hjc0bnq8fBbkKb-thumbnail.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2022/09/AOvE91e.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2022/09/JsMh2hS.png"
+  ],
+  "battle": "https://www.pokeharbor.com/wp-content/uploads/2022/09/5kXNSY2.png"
+ },
+ "Lazarus": {
+  "world": [
+   "https://i.imgur.com/tSsiU4u.png",
+   "https://i.imgur.com/SrdkRpF.png",
+   "https://i.imgur.com/wIBpkFX.png"
+  ],
+  "battle": "https://s3.retroachievements.org/game/screenshots/150/1500474062/3de0d2224c9bee13aa92555746264f5025b62604/01KN8K2WQCRDRSZ01Z9ABP10QR-thumbnail.png"
+ },
+ "SoulGold": {
+  "world": [
+   "https://s3.retroachievements.org/game/screenshots/160/1602185934/a20d1ac503a672fe69ffd53ee3ab5d387630fd48/a20d1ac503a672fe69ffd53ee3ab5d387630fd48-thumbnail.png",
+   "https://images.hackdex.app/soulgold/1785089896834-4.png",
+   "https://images.hackdex.app/soulgold/1785090115765-6.png"
+  ],
+  "battle": "https://images.hackdex.app/soulgold/1785090117222-7.png"
+ },
+ "Emerald Rogue": {
+  "world": [
+   "https://images.hackdex.app/emerald-rogue/1766535085688-1.png",
+   "https://images.hackdex.app/emerald-rogue/1766535087190-2.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2022/08/Pokemon-Emerald-Rogue-SS-4.png"
+  ],
+  "battle": "https://images.hackdex.app/emerald-rogue/1766535092677-6.png"
+ },
+ "Heart & Soul": {
+  "world": [
+   "https://images.hackdex.app/pokemon-heart-and-soul/1769575625181-2.png",
+   "https://images.hackdex.app/pokemon-heart-and-soul/1787438554128-1.gif",
+   "https://images.hackdex.app/pokemon-heart-and-soul/1787438555338-2.gif"
+  ],
+  "battle": "https://images.hackdex.app/pokemon-heart-and-soul/1769575631739-9.png"
+ },
+ "Gaia": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2021/05/pokemon-gaia-9.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/05/pokemon-gaia-5.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/05/pokemon-gaia-2.png"
+  ],
+  "battle": "https://www.pokeharbor.com/wp-content/uploads/2021/05/pokemon-gaia-3.png"
+ },
+ "Super Dark Worship": {
+  "world": [
+   "https://s3.retroachievements.org/game/screenshots/541/541027022/64b8879c0ee36c52ce601857f38a0427b94123d6/backfill-du88d6opt8p33J3Ygoc-thumbnail.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2024/05/Super-Dark-Worship-Oficial-6.webp",
+   "https://www.pokeharbor.com/wp-content/uploads/2024/05/Super-Dark-Worship-Oficial-7.webp"
+  ],
+  "battle": "https://www.pokeharbor.com/wp-content/uploads/2024/05/Super-Dark-Worship-Oficial-5.webp"
+ },
+ "R.O.W.E": {
+  "world": [
+   "https://images.hackdex.app/pokemon-rowe/1774052119027-8.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/04/pokemon-rowe-4.jpg",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/04/pokemon-rowe-3.jpg"
+  ],
+  "battle": "https://images.hackdex.app/pokemon-rowe/1774052073514-6.png"
+ },
+ "Aesthetic Red": {
+  "world": [
+   "https://images.hackdex.app/pokemon-aesthetic-red-a-visual-and-musical-overhaul-of-fire-red/1765735374181-4.png",
+   "https://images.hackdex.app/pokemon-aesthetic-red-a-visual-and-musical-overhaul-of-fire-red/1765735375818-5.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2025/12/Pokemon-Aesthetic-Red-5.png"
+  ],
+  "battle": "https://www.pokeharbor.com/wp-content/uploads/2025/12/Pokemon-Aesthetic-Red-4.png"
+ },
+ "Emerald Seaglass": {
+  "world": [
+   "https://i.imgur.com/elMjnOZ.png",
+   "https://i.imgur.com/OCMlR3e.png",
+   "https://i.imgur.com/2Sva8qW.png"
+  ],
+  "battle": "https://s3.retroachievements.org/game/screenshots/124/1248815822/b4864c66aed099344c318b0e6a5bd41b9da4ee12/backfill-msdbb41jlei1f63Q73s-thumbnail.png"
+ },
+ "Radical Red": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2021/06/pokemon-radical-red-3.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/06/20220707_011523.gif",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/06/pokemon-radical-red-4.png"
+  ],
+  "battle": "https://s3.retroachievements.org/game/screenshots/807/807103182/f55f9113df9252da297e470ec82db92fb2c4bff0/backfill-6hnmtrm7i8ujb1bNn1z-thumbnail.png"
+ },
+ "Wishes of Tomorrow": {
+  "world": [
+   "https://images.hackdex.app/wishes-of-tomorrow/1794933934943-0.png"
+  ],
+  "battle": "https://images.hackdex.app/wishes-of-tomorrow/1794933904100-0.png"
+ },
+ "Glazed": {
+  "world": [
+   "https://images.hackdex.app/glazed/1772198878185-8.png",
+   "https://images.hackdex.app/glazed/1772198875005-4.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/05/pokemon-glazed-screenshot-1.png"
+  ],
+  "battle": "https://images.hackdex.app/glazed/1772198878811-9.png"
+ },
+ "Pisces": {
+  "world": [
+   "https://images.hackdex.app/pokemon-pisces/1765736577203-6.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2025/04/Pokemon-Pisces-8.webp",
+   "https://images.hackdex.app/pokemon-pisces/1765736578471-8.png"
+  ],
+  "battle": "https://images.hackdex.app/pokemon-pisces/1765736577842-7.png"
+ },
+ "Ghost Grey": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2026/10/Pokemon-Ghost-Grey-8.gif"
+  ],
+  "battle": "https://images.hackdex.app/pokemon-ghost-grey-version/1787196294151-2.png"
+ },
+ "Orange Islands": {
+  "world": [
+   "https://images.hackdex.app/pokemon-orange-islands/1771423711678-6.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/05/pokemon-orange-islands-5.gif",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/05/pokemon-orange-islands-7.gif"
+  ],
+  "battle": "https://images.hackdex.app/pokemon-orange-islands/1771423715222-9.png"
+ },
+ "Ash Gray": {
+  "world": [
+   "https://images.hackdex.app/ash-gray-newerest-edition/1782850343417-5.png"
+  ],
+  "battle": "https://images.hackdex.app/ash-gray-newerest-edition/1782850338546-1.png"
+ },
+ "Rhythm": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2026/10/1792865028804-1.png"
+  ],
+  "battle": "https://www.pokeharbor.com/wp-content/uploads/2026/10/1792865027310-0.png"
+ },
+ "Royal Sapphire": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2025/08/1754687243420.webp"
+  ],
+  "battle": "https://www.pokeharbor.com/wp-content/uploads/2025/08/1754686773673.webp"
+ },
+ "Oops! All Eevees": {
+  "world": [
+   "https://images.hackdex.app/oops-all-eevees/1791066390533-0.png"
+  ],
+  "battle": "https://images.hackdex.app/oops-all-eevees/1791066395710-0.png"
+ },
+ "Let's Go Pikachu and Eevee": {
+  "world": [
+   "https://images.hackdex.app/lets-go-pikachu-eevee-english-translation/1792401401753-1.png"
+  ],
+  "battle": "https://images.hackdex.app/lets-go-pikachu-eevee-english-translation/1792401403766-2.png"
+ },
+ "Light Platinum": {
+  "world": [
+   "https://s3.retroachievements.org/game/screenshots/575/575826638/2ba9352038c2f00140700deb6bb81e27b303969e/backfill-38btjpvjlpav6YIsuDB-thumbnail.png",
+   "https://dlhb.gamebrew.org/gbahomebrews/pokemonlightplatium4.png",
+   "https://dlhb.gamebrew.org/gbahomebrews/pokemonlightplatium7.png"
+  ],
+  "battle": "https://dlhb.gamebrew.org/gbahomebrews/pokemonlightplatium5.png"
+ },
+ "Inclement Emerald": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2021/08/pokemon-inclement-emerald-5.png"
+  ],
+  "battle": "https://s3.retroachievements.org/game/screenshots/121/1213688526/cf1b407aacc064911b79fbf1200e389d314623a0/cf1b407aacc064911b79fbf1200e389d314623a0-thumbnail.png"
+ },
+ "Super Mariomon": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2025/04/Screenshot-2025-04-05-192213.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2025/04/Screenshot-2025-04-05-192001.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2025/04/Screenshot-2025-04-05-192049.png"
+  ],
+  "battle": "https://www.pokeharbor.com/wp-content/uploads/2025/04/Screenshot-2025-04-05-192033.png"
+ },
+ "Ultra Shiny Gold Sigma": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2021/07/pokemon-ultra-shiny-gold-sigma-5.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/07/pokemon-ultra-shiny-gold-sigma-4.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/07/pokemon-ultra-shiny-gold-sigma-2.png"
+  ],
+  "battle": "https://www.pokeharbor.com/wp-content/uploads/2021/07/pokemon-ultra-shiny-gold-sigma-3.png"
+ },
+ "Rocket Edition": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2021/05/firered-rocket-edition-6.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/05/firered-rocket-edition-3.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/05/firered-rocket-edition-4.png"
+  ],
+  "battle": "https://www.pokeharbor.com/wp-content/uploads/2021/05/firered-rocket-edition-5.png"
+ },
+ "Dark Violet": {
+  "world": [
+   "https://static.pokemoncoders.com/wp-content/uploads/2019/12/DarkViolet04.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/05/Pokemon-Dark-Violet-Pre-Hallof-Fame.gif"
+  ],
+  "battle": "https://www.pokeharbor.com/wp-content/uploads/2021/05/Pokemon-Dark-Violet-2.png"
+ },
+ "Nameless": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2021/05/pokemon-nameless-8.jpg",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/05/pokemon-nameless-7.jpg",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/05/pokemon-nameless-2.jpg"
+  ],
+  "battle": "https://www.pokeharbor.com/wp-content/uploads/2021/05/pokemon-nameless-1.jpg"
+ },
+ "SORS": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2021/04/pokemon-sors-5.png",
+   "https://images.hackdex.app/pokemon-sors/1768842627525-3.png",
+   "https://images.hackdex.app/pokemon-sors/1768842630297-5.png"
+  ],
+  "battle": "https://www.pokeharbor.com/wp-content/uploads/2021/04/pokemon-sors-6-2.png"
+ },
+ "Sword and Shield GBA": {
+  "world": [
+   "https://s3.retroachievements.org/game/screenshots/180/1804036814/587935ea4d093a848b30db33bc24d04b11ff2ecc/backfill-73seaqa7a80ufNEGkZx-thumbnail.png",
+   "https://images.hackdex.app/sword-and-shield-ultimate-plus/1765738829739-4.png",
+   "https://images.hackdex.app/sword-and-shield-ultimate-plus/1765738833132-9.png"
+  ],
+  "battle": "https://www.pokeharbor.com/wp-content/uploads/2023/01/Screenshot_20230210-210040_My_Boy-e1676203494538.jpg"
+ },
+ "Recordkeepers": {
+  "world": [
+   "https://images.hackdex.app/recordkeepers/1765791850602-8.png",
+   "https://images.hackdex.app/recordkeepers/1765791843075-1.png",
+   "https://images.hackdex.app/recordkeepers/1765791850602-8.png"
+  ],
+  "battle": "https://images.hackdex.app/recordkeepers/1765791846064-4.png"
+ },
+ "FireRed Extended": {
+  "world": [
+   "https://images.hackdex.app/pokemon-fire-red-extended/1765849540971-6.png",
+   "https://images.hackdex.app/pokemon-fire-red-extended/1765849543797-8.png",
+   "https://images.hackdex.app/pokemon-fire-red-extended/1765849533895-1.png"
+  ],
+  "battle": "https://images.hackdex.app/pokemon-fire-red-extended/1765849539601-5.png"
+ },
+ "Amethyst Version": {
+  "world": [
+   "https://images.hackdex.app/pokemon-amethyst/1778875084678-2.png",
+   "https://images.hackdex.app/pokemon-amethyst/1778875086887-5.png",
+   "https://images.hackdex.app/pokemon-amethyst/1790354590800-9.png"
+  ],
+  "battle": "https://images.hackdex.app/pokemon-amethyst/1790354589507-3.png"
+ },
+ "Elite Redux": {
+  "world": [
+   "https://i.imgur.com/xSPaV3O.gif",
+   "https://i.imgur.com/pL4cYIK.gif",
+   "https://i.imgur.com/tebLsQk.gif"
+  ],
+  "battle": "https://i.imgur.com/qNRIoym.gif"
+ },
+ "Emerald Imperium": {
+  "world": [
+   "https://images.hackdex.app/emerald-imperium/1765746097668-5.png",
+   "https://images.hackdex.app/emerald-imperium/1765746098980-7.png",
+   "https://images.hackdex.app/emerald-imperium/1765746094279-0.png"
+  ],
+  "battle": "https://images.hackdex.app/emerald-imperium/1765746095691-2.png"
+ },
+ "The Last FireRed": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2021/04/pokemon-last-fire-red-5.jpg"
+  ],
+  "battle": "https://www.pokeharbor.com/wp-content/uploads/2021/04/pokemon-last-fire-red-10.jpg"
+ },
+ "Monomyth": {
+  "world": [
+   "https://i.imgur.com/ZIRRuIF.png",
+   "https://i.imgur.com/614x7D2.png",
+   "https://i.imgur.com/y9wS5rC.png"
+  ],
+  "battle": "https://i.imgur.com/930Zwfi.png"
+ },
+ "Modern Emerald": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2023/05/VuWeJWA.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2023/05/W8PYEC5.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2023/05/x5pfhCT.png"
+  ],
+  "battle": "https://www.pokeharbor.com/wp-content/uploads/2023/05/GjqAyEP.png"
+ },
+ "Blue Stars 4": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2023/06/Blue-Stars-4-DEMO-7.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2023/06/Blue-Stars-4-DEMO-5.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2023/06/Blue-Stars-4-DEMO-8.png"
+  ],
+  "battle": "https://www.pokeharbor.com/wp-content/uploads/2023/06/Blue-Stars-4-DEMO-4.png"
+ },
+ "Fire of Sky": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2026/06/Pokemon-Fire-of-Sky-Completo-v1.0.3-2.webp",
+   "https://www.pokeharbor.com/wp-content/uploads/2026/06/Pokemon-Fire-of-Sky-Completo-v1.0.3-5.webp",
+   "https://www.pokeharbor.com/wp-content/uploads/2026/06/Pokemon-Fire-of-Sky-Completo-v1.0.3-4.webp"
+  ],
+  "battle": "https://www.pokeharbor.com/wp-content/uploads/2026/06/Pokemon-Fire-of-Sky-Completo-v1.0.3-6.webp"
+ },
+ "Parallel Emerald": {
+  "world": [
+   "https://images.hackdex.app/pokemon-parallel-emerald/1765748437028-9.png",
+   "https://images.hackdex.app/pokemon-parallel-emerald/1765748435927-8.png",
+   "https://images.hackdex.app/pokemon-parallel-emerald/1765748434782-7.png"
+  ],
+  "battle": "https://i.imgur.com/5kUlRmK.png"
+ },
+ "Blazed Glazed": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2021/05/pokemon-blazed-glazed-screenshot-2.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/05/pokemon-blazed-glazed-screenshot-5.png"
+  ],
+  "battle": "https://www.pokeharbor.com/wp-content/uploads/2021/05/pokemon-blazed-glazed.png"
+ },
+ "Cawps": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2021/05/df4bf-screenshot4_zpsqop0ys5n.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/05/84631-screenshot10_zpssh1runwt.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/05/d00c1-screenshot2_zpsjhlty6iq.png"
+  ]
+ },
+ "Crystal Advance Redux": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2021/01/Screenshot_1.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/01/Screenshot_2.png"
+  ],
+  "battle": "https://www.pokeharbor.com/wp-content/uploads/2021/01/Screenshot_3.png"
+ },
+ "Dark Cry": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2021/05/pokemon-dark-cry-screenshot-2.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/05/pokemon-dark-cry-screenshot-4.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/05/pokemon-dark-cry-screenshot-5.png"
+  ]
+ },
+ "Dark Rising 2": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2024/01/nBJSE8u.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2024/01/nmWnusN.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2024/01/wIbXaQm.png"
+  ],
+  "battle": "https://www.pokeharbor.com/wp-content/uploads/2024/01/jITTpqO.png"
+ },
+ "Dark Worship": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2023/01/Dark-Worship-Oficial-2.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2023/01/Dark-Worship-Oficial-1.png"
+  ]
+ },
+ "Emerald Horizons": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2023/07/EmeraldHorizons-2.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2023/07/NZwnln0.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2023/07/HIZxlfy.png"
+  ],
+  "battle": "https://www.pokeharbor.com/wp-content/uploads/2023/07/EmeraldHorizons-1.png"
+ },
+ "FireRed Reignited": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2025/03/422620350-1403dd95-04db-4ffa-81b7-9133feec520e.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2025/03/422620363-cdc219b4-c214-49ac-8bdb-4488ee4acfbd.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2025/03/422620365-31dc381c-7be0-4971-8bc4-dd27f9d3e2d1.png"
+  ],
+  "battle": "https://www.pokeharbor.com/wp-content/uploads/2025/03/422620357-0cc247b6-e21a-4963-aca6-6b300c2fc9fc.png"
+ },
+ "Fused Dimensions": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2021/07/pokemon-fused-dimensions-1.png"
+  ],
+  "battle": "https://www.pokeharbor.com/wp-content/uploads/2021/07/pokemon-fused-dimensions.png"
+ },
+ "Homestead": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2026/09/Pokemon-Homestead-7.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2026/09/Pokemon-Homestead-2.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2026/09/Pokemon-Homestead-4.png"
+  ]
+ },
+ "Kanlara Ultimate": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2021/05/pokemon-kanlara-ultimate-1.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/05/pokemon-kanlara-ultimate-3.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/05/pokemon-kanlara-ultimate-8.png"
+  ],
+  "battle": "https://www.pokeharbor.com/wp-content/uploads/2021/05/pokemon-kanlara-ultimate-2.png"
+ },
+ "Korosu": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2021/06/screensht3_zpsdbwph9lo.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/06/screensht6_zps2oc99y8y.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/06/xtrascrn_zpsihnnvnpt.png"
+  ]
+ },
+ "Moon Emerald": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2021/06/pokemon-moon-emerald-ss-3-1.png"
+  ],
+  "battle": "https://www.pokeharbor.com/wp-content/uploads/2021/06/pokemon-moon-emerald-ss-2-1.png"
+ },
+ "Noon": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2021/06/pokemon-smile-6.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/06/pokemon-smile-3.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/06/pokemon-smile-2.png"
+  ],
+  "battle": "https://www.pokeharbor.com/wp-content/uploads/2021/06/pokemon-smile-1.png"
+ },
+ "Omega Red": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2021/06/Pokemon-Omega-Red_04.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/06/Pokemon-Omega-Red_05.png"
+  ],
+  "battle": "https://www.pokeharbor.com/wp-content/uploads/2021/06/Pokemon-Omega-Red_03.png"
+ },
+ "Outlaw": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2021/06/pokemon-outlaw-3.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/06/pokemon-outlaw-4.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/06/pokemon-outlaw-1.png"
+  ]
+ },
+ "PokeSouls": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2025/09/1756157970594.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2025/09/1756157742759.png"
+  ],
+  "battle": "https://www.pokeharbor.com/wp-content/uploads/2025/09/1756157873729.png"
+ },
+ "Saiph": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2021/11/pokemon-saiph-2-8.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/11/pokemon-saiph-2-6.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/11/pokemon-saiph-2-3.png"
+  ],
+  "battle": "https://www.pokeharbor.com/wp-content/uploads/2021/11/pokemon-saiph-2-4.png"
+ },
+ "Scorched Silver": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2024/06/DjnJb1Z.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2024/06/pujhF2g.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2024/06/gkXr7qV.gif"
+  ],
+  "battle": "https://www.pokeharbor.com/wp-content/uploads/2024/06/r7Mqkud.png"
+ },
+ "Sienna": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2021/07/966vk0U.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/07/c370xpC.png"
+  ],
+  "battle": "https://www.pokeharbor.com/wp-content/uploads/2021/07/BF8UvXt.png"
+ },
+ "Sovereign of the Skies": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2021/07/pokemon-sovereign-of-the-skies-1.jpg",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/07/pokemon-sovereign-of-the-skies-4.jpg",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/07/pokemon-sovereign-of-the-skies-6.jpg"
+  ],
+  "battle": "https://www.pokeharbor.com/wp-content/uploads/2021/07/pokemon-sovereign-of-the-skies-3.jpg"
+ },
+ "Theta Emerald EX": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2021/07/nZmKY6O.png"
+  ],
+  "battle": "https://www.pokeharbor.com/wp-content/uploads/2021/07/0KkqfeZ.png"
+ },
+ "Too Many Types 2": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2025/12/1766180910342.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2025/12/1766180910389.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2025/12/1766180910399.png"
+  ]
+ },
+ "Ultra Violet": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2021/07/pokemon-ultra-violet-3.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/07/pokemon-ultra-violet-5.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/07/pokemon-ultra-violet-9.png"
+  ]
+ },
+ "Vega": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2021/07/pokemon-vega-1.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/07/pokemon-vega-4.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/07/pokemon-vega-6.png"
+  ],
+  "battle": "https://www.pokeharbor.com/wp-content/uploads/2021/07/pokemon-vega-2.png"
+ },
+ "Wally's Quest": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2022/10/Pokemon-Wally-Quest-SS-3.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2022/10/Pokemon-Wally-Quest-SS-2.png"
+  ],
+  "battle": "https://www.pokeharbor.com/wp-content/uploads/2022/10/Pokemon-Wally-Quest-SS-4.png"
+ },
+ "Wild Indigo": {
+  "world": [
+   "https://images.hackdex.app/pokemon-wild-indigo/1788813527330-5.png",
+   "https://images.hackdex.app/pokemon-wild-indigo/1788813525534-2.png",
+   "https://images.hackdex.app/pokemon-wild-indigo/1788815905068-7.png"
+  ]
+ },
+ "Omega Ruby Origins": {
+  "world": [
+   "https://images.hackdex.app/pokemon-omega-ruby-origins/1777230818812-0.png"
+  ],
+  "battle": "https://images.hackdex.app/pokemon-omega-ruby-origins/1777230821010-2.png"
+ },
+ "Elysium": {
+  "world": [
+   "https://images.hackdex.app/pokemon-elysium-part-a/1784231653011-1.png",
+   "https://images.hackdex.app/pokemon-elysium-part-a/1784231667972-7.png",
+   "https://images.hackdex.app/pokemon-elysium-part-a/1784231660048-4.png"
+  ]
+ },
+ "Fakemon FireRed": {
+  "world": [
+   "https://images.hackdex.app/fakemon-firered-v20/1768598593179-7.png"
+  ],
+  "battle": "https://images.hackdex.app/fakemon-firered-v20/1768598570354-2.png"
+ },
+ "Emerald Legacy": {
+  "world": [
+   "https://images.hackdex.app/pokemon-emerald-legacy/1793909029363-8.gif",
+   "https://images.hackdex.app/pokemon-emerald-legacy/1793909019312-1.gif",
+   "https://images.hackdex.app/pokemon-emerald-legacy/1793909023846-4.gif"
+  ],
+  "battle": "https://images.hackdex.app/pokemon-emerald-legacy/1793909025162-5.gif"
+ },
+ "Blazing Emerald": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2021/05/pokemon-blazing-emerald-8.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/05/pokemon-blazing-emerald-7.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/05/pokemon-blazing-emerald-6.png"
+  ],
+  "battle": "https://www.pokeharbor.com/wp-content/uploads/2021/05/pokemon-blazing-emerald-1.png"
+ },
+ "Stranded": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2021/04/pokemon-stranded-1.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/04/pokemon-stranded-2.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/04/pokemon-stranded-6.png"
+  ]
+ },
+ "Theta Emerald Renev": {
+  "world": [
+   "https://www.pokeharbor.com/wp-content/uploads/2021/07/pokemon-theta-emerald-renev-6.png",
+   "https://www.pokeharbor.com/wp-content/uploads/2021/07/pokemon-theta-emerald-renev-2.png"
+  ],
+  "battle": "https://www.pokeharbor.com/wp-content/uploads/2021/07/pokemon-theta-emerald-renev-3.png"
+ },
+ "Resolute": {
+  "world": [
+   "https://i.imgur.com/rChcenZ.png",
+   "https://i.imgur.com/Kpcvm6G.png",
+   "https://dlhb.gamebrew.org/gbahomebrews/pokemonresolute4.png"
+  ],
+  "battle": "https://dlhb.gamebrew.org/gbahomebrews/pokemonresolute3.png"
+ },
+ "Victory Fire": {
+  "world": [
+   "https://dlhb.gamebrew.org/gbahomebrews/pokemonvictoryfire5.png",
+   "https://dlhb.gamebrew.org/gbahomebrews/pokemonvictoryfire3.png",
+   "https://dlhb.gamebrew.org/gbahomebrews/pokemonvictoryfire6.png"
+  ],
+  "battle": "https://dlhb.gamebrew.org/gbahomebrews/pokemonvictoryfire4.png"
+ },
+ "Exceeded": {
+  "world": [
+   "https://images.hackdex.app/pokemon-exceeded/1787537653292-2.png",
+   "https://images.hackdex.app/pokemon-exceeded/1787537654938-3.png",
+   "https://images.hackdex.app/pokemon-exceeded/1787537661628-8.png"
+  ],
+  "battle": "https://images.hackdex.app/pokemon-exceeded/1787537656287-4.png"
+ },
+ "Fire Omega": {
+  "world": [
+   "https://images.hackdex.app/fire-red-omega/1766873555065-4.png",
+   "https://images.hackdex.app/fire-red-omega/1766873548986-0.png"
+  ],
+  "battle": "https://images.hackdex.app/fire-red-omega/1766873553502-3.png"
+ }
+}
